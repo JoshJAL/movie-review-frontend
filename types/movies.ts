@@ -5,7 +5,7 @@ type ID = {
 
 export type Movie = {
   id: ID;
-  imdbID: string;
+  imdbId: string;
   title: string;
   releaseDate: string;
   trailerLink: string;
