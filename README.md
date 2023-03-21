@@ -1,3 +1,9 @@
+# Running Properly
+
+To get this running along with the backend you must first download the code located [here](https://github.com/JoshJAL/movie-reviews-backend).
+
+That is a backend written in Java that the front end pulls from. Navigate to the MoviesApplication.java file and run that before running npm run start on this project.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
